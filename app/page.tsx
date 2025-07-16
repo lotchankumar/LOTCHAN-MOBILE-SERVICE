@@ -24,9 +24,9 @@ export default function LotchanLanding() {
       <header className="bg-white shadow-sm border-b">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <div className="bg-blue-600 p-2 rounded-lg">
-              <Smartphone className="h-6 w-6 text-white" />
-            </div>
+            
+              <img src="/logophone.png" className="h-12 w-12 text-white" />
+            
             <div>
               <h1 className="text-2xl font-bold text-gray-900">LOTCHAN</h1>
               <p className="text-sm text-gray-600">Mobile Service Center</p>
@@ -299,7 +299,7 @@ export default function LotchanLanding() {
               className="border-orange-600 text-orange-600 hover:bg-orange-50 w-full sm:w-auto bg-transparent"
               asChild
             >
-              <a href="https://instagram.com/lotchan_mobile" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/lotchan_mobileservice/" target="_blank" rel="noopener noreferrer">
                 <Instagram className="h-5 w-5 mr-2" />
                 Instagram
               </a>

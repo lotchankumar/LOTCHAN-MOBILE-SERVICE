@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'MOBILE SERVICE AT YOUR DOORSTEP',
   generator: 'Lotchan Kumar',
   icons: {
-    icon: "/logophone.jpg", // 👈 This is how you add favicon in App Router
+    icon: "/logophone.png", // 👈 This is how you add favicon in App Router
   },
 }
 
